@@ -1,0 +1,30 @@
+/* add your CSS here */
+.container{
+	padding: 5px;
+	border-style: solid;
+	border-color: #bdbdbd;
+	border-width: 2px ;
+	box-shadow:  10px 10px 5px grey;
+	width: 350px;
+}
+.horse{
+	width: 350px;
+	padding-bottom: 10px;
+	
+}
+.paragraph{
+	padding: 5px;
+	border-style: solid;
+	border-color: #bdbdbd;
+	border-width: 2px;
+	margin: 2px;
+}
+.article{
+	font-style: italic;
+}
+.list{
+	list-style: none;
+}
+.item{
+	font-weight: bold; ;
+}
